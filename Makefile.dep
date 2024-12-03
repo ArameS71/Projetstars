@@ -1,0 +1,5 @@
+Carburant.o: Carburant.cpp
+Afficheur.o: Afficheur.cpp
+Pompe.o: Pompe.cpp
+Pompe3C.o: Pompe3C.cpp
+Station.o: Station.cpp
